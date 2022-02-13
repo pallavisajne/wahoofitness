@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12920" started-at="2021-10-17T14:17:04Z" finished-at="2021-10-17T14:17:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12920" started-at="2021-10-17T14:17:04Z" finished-at="2021-10-17T14:17:17Z">
+      <class name="Selenium_Framework.FirstProject.login">
+        <test-method status="PASS" signature="success()[pri:0, instance:Selenium_Framework.FirstProject.login@bb3d47]" name="success" is-config="true" duration-ms="10699" started-at="2021-10-17T19:47:04Z" finished-at="2021-10-17T19:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- success -->
+        <test-method status="PASS" signature="fail()[pri:0, instance:Selenium_Framework.FirstProject.login@bb3d47]" name="fail" duration-ms="2198" started-at="2021-10-17T19:47:15Z" finished-at="2021-10-17T19:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fail -->
+      </class> <!-- Selenium_Framework.FirstProject.login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
